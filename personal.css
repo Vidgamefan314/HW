@@ -1,0 +1,19 @@
+#one {
+    /*height: 10%;*/
+    width: 50%;
+    float: right;
+}
+.hi {
+    text-align: center;
+}
+
+#two {
+    height: 50%;
+    width: 50%;
+}
+body {
+    background-color: green;
+}
+hr {
+  border-color: black;
+}
