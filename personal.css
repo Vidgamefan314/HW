@@ -17,3 +17,11 @@ body {
 hr {
   border-color: black;
 }
+#three {
+    height: 50%;
+    width: 50%;
+}
+.container {
+    margin: 0 auto;
+    width: 960px;
+}
