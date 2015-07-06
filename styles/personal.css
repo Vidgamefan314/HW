@@ -6,7 +6,6 @@
 .hi {
     text-align: center;
 }
-
 #two {
     height: 50%;
     width: 50%;
@@ -48,7 +47,7 @@ table {
    border-collapse: collapse; 
 }
 th, tr, td  {
-    border: 2px solid black;
+    border: 2px solid black; 
     
 }
 iframe {
@@ -78,4 +77,13 @@ nav a {
 video {
     width: 100%;
     height: 560px;
+}
+ol ul li {
+    margin-left: 50px;
+}
+#po {
+   float: right;
+}
+h3 {
+    text-align: center;
 }
