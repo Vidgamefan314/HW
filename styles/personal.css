@@ -11,7 +11,9 @@
     width: 50%;
 }
 body {
-    background-color: green;
+    background-image: url("http://www.zelda.com/hyrule-warriors/img/gallery/wallpapers/downloads/wp1_1920x1080.jpg"), url("http://www.zeldadungeon.net/wiki/images/e/ef/Hyrule_Warriors_English_Logo.png"), url("http://orig00.deviantart.net/3d74/f/2014/179/a/d/link__hyrule_warriors__wallpaper___color_by_machriderz-d7oect2.png");
+    background-position: top, center, bottom;
+    background-repeat: no-repeat;
 }
 hr {
   border-color: black;
@@ -99,4 +101,10 @@ h3 {
 }
 #sup {
   color: blue;
+}
+#xx:hover {
+  opacity : 0;
+}
+#xy {
+  text-align: left;
 }
