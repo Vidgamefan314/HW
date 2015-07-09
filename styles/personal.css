@@ -10,10 +10,10 @@
     height: 50%;
     width: 50%;
 }
-body {
-    background-image: url("http://www.zelda.com/hyrule-warriors/img/gallery/wallpapers/downloads/wp1_1920x1080.jpg"), url("http://www.zeldadungeon.net/wiki/images/e/ef/Hyrule_Warriors_English_Logo.png"), url("http://orig00.deviantart.net/3d74/f/2014/179/a/d/link__hyrule_warriors__wallpaper___color_by_machriderz-d7oect2.png");
-    background-position: top, center, bottom;
+#ip {
+    background-image: url("http://www.zelda.com/hyrule-warriors/img/gallery/wallpapers/downloads/wp1_1920x1080.jpg");
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
 hr {
   border-color: black;
@@ -107,8 +107,16 @@ h3 {
   border-bottom: solid black 2px;
 }
 .container > p, li {
-  color: green;
+  color: purple;
 }
-p {
-  color: green;
+#id {
+   background-image: url("http://www.zeldadungeon.net/wiki/images/e/ef/Hyrule_Warriors_English_Logo.png");
+   background-repeat: no-repeat;
+   margin: 0 auto;
+}
+.ia {
+  background-image: url("http://orig00.deviantart.net/3d74/f/2014/179/a/d/link__hyrule_warriors__wallpaper___color_by_machriderz-d7oect2.png");
+  background-size: 1800px 1420px;
+  background-repeat: no-repeat;
+  margin: 0 auto;
 }
