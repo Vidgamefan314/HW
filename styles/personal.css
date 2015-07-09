@@ -103,7 +103,7 @@ h3 {
 #sup {
   color: blue;
 }
-#xx:hover {
+.container > #xx:hover iframe{
   opacity : 0;
 }
 #xy {
@@ -111,4 +111,13 @@ h3 {
 }
 #we {
   border-bottom: solid black 2px;
+}
+.container > p, li {
+  color: green;
+}
+p {
+  color: green;
+}
+.container {
+  opacity: 0.75;
 }
