@@ -103,12 +103,6 @@ h3 {
 #sup {
   color: blue;
 }
-.container > #xx:hover iframe{
-  opacity : 0;
-}
-#xy {
-  text-align: left;
-}
 #we {
   border-bottom: solid black 2px;
 }
