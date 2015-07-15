@@ -1,13 +1,14 @@
 $( document ).ready(function() {
  
-    $( "#xy" ).hover(function() {
+    $( "#xy" ).click(function() {
  
-       $( "#one, #two, #three, #ax, #to" ).fadeTo(50, 0);
-        },
-         function() {
- 
-       $( "#one, #two, #three, #ax, #to" ).fadeTo(50, 1);
- 
-    });
+       $( "#one, #two, #three, #ax, #to, #ty" ).toggleClass("ef");
  
 });event;
+$( document ).ready(function() {
+  $( "#two" ).hover(function() {
+    
+  $( "#two" ).replaceWith("<iframe id='mk' src='https://www.youtube.com/embed/dQw4w9WgXcQ'?frameborder='0'&allowfullscreen&autoplay></iframe>")
+});
+});
+});

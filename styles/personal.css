@@ -11,7 +11,7 @@
     width: 50%;
 }
 #ip {
-    background-image: url("http://www.zelda.com/hyrule-warriors/img/gallery/wallpapers/downloads/wp1_1920x1080.jpg");
+    background-image: url("http://media1.gameinformer.com/imagefeed/screenshots/HyruleWarriors/WiiU_HyruleWarriors_char01_E3.jpg");
     background-repeat: no-repeat;
     margin: 0 auto;
 }
@@ -85,7 +85,7 @@ ol ul li {
     margin-left: 50px;
 }
 #po {
-   float: right;
+   float: left;
 }
 h3 {
     text-align: center;
@@ -110,7 +110,7 @@ h3 {
   color: purple;
 }
 #id {
-   background-image: url("http://www.zeldadungeon.net/wiki/images/e/ef/Hyrule_Warriors_English_Logo.png");
+   background-image: url(http://www.zeldadungeon.net/wiki/images/e/ef/Hyrule_Warriors_English_Logo.png);
    background-repeat: no-repeat;
    margin: 0 auto;
 }
@@ -122,4 +122,22 @@ h3 {
 }
 .bob {
   width: 50%;
+}
+@media screen and (max-width: 600px) {
+  body {
+      background-color: lightblue;
+      font-size: .75em;
+}
+}
+.ef {
+  opacity: 0!important;
+}
+#ty {
+  width: 500px;
+  
+}
+
+#back-to-top {
+  position: fixed;
+  display: block;
 }
