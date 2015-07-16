@@ -6,7 +6,7 @@ $( document ).ready(function() {
  
 });event;
 $( document ).ready(function() {
-  $( "#two" ).hover(function() {
+  $( "#two" ).click(function() {
     
   $( "#two" ).replaceWith("<iframe id='mk' src='https://www.youtube.com/embed/dQw4w9WgXcQ' frameborder='0'  allowfullscreen autoplay></iframe>");
 });

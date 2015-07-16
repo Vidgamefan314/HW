@@ -107,7 +107,7 @@ h3 {
   border-bottom: solid black 2px;
 }
 .container > p, li {
-  color: green;
+  text-shadow: 1px 1px red;
 }
 #id {
    background-image: url(http://www.zeldadungeon.net/wiki/images/e/ef/Hyrule_Warriors_English_Logo.png);
@@ -140,4 +140,10 @@ h3 {
 #back-to-top {
   position: fixed;
   display: block;
+}
+#fg {
+  float: left;
+}
+#qw {
+  float: right;
 }
